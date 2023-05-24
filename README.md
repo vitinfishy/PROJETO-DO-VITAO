@@ -8,6 +8,5 @@
   </head>
   <body>
     <h1>Imagem inicial do site aqui</h1>
-    
   </body>
   </html>
